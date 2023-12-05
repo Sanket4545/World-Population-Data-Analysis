@@ -11,14 +11,10 @@ This project explores historical population data for countries and territories w
 The project aims to shed light on the significant shifts and patterns in global population. By examining factors such as growth rate, continent-wise distribution, and ranking, we gain a deeper understanding of the world's demographic landscape. This analysis is motivated by the ever-changing nature of global population dynamics and the implications it holds for the future.
 
 
-![00](https://github.com/Sanket4545/World-Population-Data-Analysis/assets/103092841/ed851fba-0edf-4ea6-9a97-7e96c6e58091)
-
 
 
 ## Data Sources
 The dataset used in this analysis is based on data from the United Nations and the US Census Bureau. It encompasses key information such as population size, continent, capital, density, and growth rate. This dataset provides a valuable resource for exploring global demographic trends.
-
-![001](https://github.com/Sanket4545/World-Population-Data-Analysis/assets/103092841/06d996b8-b12a-4f5f-afa9-b3cb5a6b8ae8)
 
 
 
@@ -33,3 +29,7 @@ Population growth rates have been decreasing since the 1970s, with a projected p
 
 
 ![00002](https://github.com/Sanket4545/World-Population-Data-Analysis/assets/103092841/b53dcae5-9f71-48da-b248-199435570a79)
+
+![00](https://github.com/Sanket4545/World-Population-Data-Analysis/assets/103092841/ed851fba-0edf-4ea6-9a97-7e96c6e58091)
+
+![001](https://github.com/Sanket4545/World-Population-Data-Analysis/assets/103092841/06d996b8-b12a-4f5f-afa9-b3cb5a6b8ae8)
